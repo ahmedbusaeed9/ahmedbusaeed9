@@ -10,9 +10,6 @@ I am an **AI Engineering Student** and **AI Governance Intern** at TrustAI. I sp
 - Developing modular ML pipelines and running fairness audits on protected attributes
 - Applying fairness mitigation methods and evaluating performance trade-offs
 
-### **Web Development**
-- Co-developed **TrustAI Web** application integrating AI capabilities
-
 ## 🛠️ Tech Stack
 - **Languages**: Python, C++, C, R, SQL, JavaScript
 - **ML/AI**: Scikit-learn, SHAP, LIME, Feature Engineering
